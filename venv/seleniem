@@ -1,0 +1,6 @@
+from selenium import webdriver
+ 
+option = webdriver.ChromeOptions()
+option.add_experimental_option("detach",True)
+driver = webdriver.Chrome(options=option)
+driver.get("https://icp.administracionelectronica.gob.es/icpplus/index.html")

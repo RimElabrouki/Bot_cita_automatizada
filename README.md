@@ -24,7 +24,11 @@ Para ello, utiliza `Selenium` para automatizar la interacción con la web y `Tki
    cd Bot_cita_automatizada
 
 2. Crea y activa un entorno virtual:
-2. Instala las dependencias necesarias:
  ```bash
    python -m venv venv
    source venv/bin/activate   # En Windows: venv\Scripts\activate
+ ```
+3. Instala las dependencias necesarias:
+    ```bash
+   pip install -r requirements.txt
+  ```

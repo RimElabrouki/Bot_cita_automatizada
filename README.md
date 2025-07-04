@@ -44,3 +44,13 @@ Se abrirá una ventana con una interfaz gráfica. Introduce los datos solicitado
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/9be07955-5fa5-4a32-ae90-529e542589b9" />
 
 El bot automatizará el proceso de solicitud de cita en la web correspondiente y te mostrará el resultado.
+
+🤝 Contribuciones
+¡Las contribuciones son bienvenidas!
+Si quieres colaborar, haz un fork del repositorio, realiza tus cambios y abre un pull request.
+
+⚠️ Aviso legal
+Este proyecto ha sido desarrollado con fines educativos y sociales, sin ánimo de lucro.
+No está afiliado ni respaldado por ninguna entidad oficial.
+El uso de esta herramienta es responsabilidad exclusiva del usuario.
+Los desarrolladores no se hacen responsables de posibles consecuencias derivadas de su uso indebido o de cambios en los sitios web automatizados que puedan afectar su funcionamiento.

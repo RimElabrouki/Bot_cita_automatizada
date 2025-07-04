@@ -44,11 +44,11 @@ Se abrirá una ventana con una interfaz gráfica. Introduce los datos solicitado
 
 El bot automatizará el proceso de solicitud de cita en la web correspondiente y te mostrará el resultado.
 
-##🤝 Contribuciones
+🤝 ##Contribuciones
 ¡Las contribuciones son bienvenidas!
 Si quieres colaborar, haz un fork del repositorio, realiza tus cambios y abre un pull request.
 
-##⚠️ Aviso legal
+⚠️ ##Aviso legal
 Este proyecto ha sido desarrollado con fines educativos y sociales, sin ánimo de lucro.
 No está afiliado ni respaldado por ninguna entidad oficial.
 El uso de esta herramienta es responsabilidad exclusiva del usuario.

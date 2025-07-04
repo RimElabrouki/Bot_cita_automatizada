@@ -29,6 +29,20 @@ Para ello, utiliza `Selenium` para automatizar la interacción con la web y `Tki
    source venv/bin/activate   # En Windows: venv\Scripts\activate
  ```
 3. Instala las dependencias necesarias:
-    ```bash
+ ```bash
    pip install -r requirements.txt
   ```
+
+4. Cómo usar
+Ejecuta el script principal:
+
+ ```bash
+python main.py
+  ```
+Se abrirá una ventana con una interfaz gráfica. Introduce los datos solicitados.
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/4e0cb6dd-f033-40f1-bc4a-46284828553b" />
+
+
+
+
+El bot automatizará el proceso de solicitud de cita en la web correspondiente y te mostrará el resultado.

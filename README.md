@@ -40,9 +40,7 @@ Ejecuta el script principal:
 python main.py
   ```
 Se abrirá una ventana con una interfaz gráfica. Introduce los datos solicitados.
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/8b029144-8d0e-478b-8ec1-606c30d369f5" />
 
-
-
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/9be07955-5fa5-4a32-ae90-529e542589b9" />
 
 El bot automatizará el proceso de solicitud de cita en la web correspondiente y te mostrará el resultado.

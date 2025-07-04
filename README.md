@@ -22,9 +22,10 @@ Para ello, utiliza `Selenium` para automatizar la interacción con la web y `Tki
    ```bash
    git clone https://github.com/RimElabrouki/Bot_cita_automatizada.git
    cd Bot_cita_automatizada
+   ```
 
 2. Crea y activa un entorno virtual:
- ```bash
+   ```bash
    python -m venv venv
    source venv/bin/activate   # En Windows: venv\Scripts\activate
  ```

@@ -28,18 +28,16 @@ Para ello, utiliza `Selenium` para automatizar la interacción con la web y `Tki
    ```bash
    python -m venv venv
    source venv/bin/activate   # En Windows: venv\Scripts\activate
- ```
 3. Instala las dependencias necesarias:
- ```bash
+   ```bash
    pip install -r requirements.txt
-  ```
 
 4. Cómo usar
 Ejecuta el script principal:
 
- ```bash
-python main.py
-  ```
+   ```bash
+   python main.py
+
 Se abrirá una ventana con una interfaz gráfica. Introduce los datos solicitados.
 
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/9be07955-5fa5-4a32-ae90-529e542589b9" />

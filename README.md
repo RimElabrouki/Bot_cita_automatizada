@@ -40,7 +40,7 @@ Ejecuta el script principal:
 python main.py
   ```
 Se abrirá una ventana con una interfaz gráfica. Introduce los datos solicitados.
-<img width="523" alt="image" src="https://github.com/user-attachments/assets/4e0cb6dd-f033-40f1-bc4a-46284828553b" />
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/8b029144-8d0e-478b-8ec1-606c30d369f5" />
 
 
 
